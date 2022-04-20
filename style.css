@@ -1,0 +1,24 @@
+p {
+    text-align: center;
+    font-size: 60px;
+    color: springgreen;
+}
+
+h4 {
+    font-style: italic;
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid springgreen;
+    border-collapse: collapse;
+    color: springgreen;
+}
+
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+h5{
+
+}
