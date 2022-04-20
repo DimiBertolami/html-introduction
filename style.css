@@ -13,7 +13,10 @@ h4 {
     font-style: italic;
     text-align: center;
 }
-
+ol{
+    text-align: center;
+    list-style-position: inside;
+}
 table, th, td {
     border: 1px solid springgreen;
     border-collapse: collapse;
